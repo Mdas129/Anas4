@@ -1,0 +1,126 @@
+#EXTM3U
+ 
+#EXTINF:123,Anas – Star sports 1 tamil 
+https://vsd232.mycdn.me/hls/5788126349830.m3u8/sig/cR3SKVpsHWc/expires/1705855385466/srcIp/49.206.119.194/urls/185.226.53.53/clientType/36/srcAg/CHROME_ANDROID/mid/7169497253638/video.m3u8?p
+ 
+#EXTINF:123,ANAS - Sports 18
+https://jio.bulbtv.online/stream.m3u8?id=1984&itoken=ddfd265e2f4d70b19df31d9a5f9568aa31708f6535babc9c5677cfa3b8f5720ce8681626140cdbf2994793fc5d5c5e351d843b44dc0af3f91dec94696bfd74e5676ec08d0f28fd9b416750555748e181&e=.m3u8
+ 
+#EXTINF:123,ANAS - Sports 18
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
+ 
+#EXTINF:123,ANAS - Star sports 1 SD
+https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/chunklist.m3u8
+ 
+#EXTINF:321,ANAS - STAR SPORTS 1 TAMIL
+https://vsd232.mycdn.me/hls/5788126349830.m3u8/sig/cR3SKVpsHWc/expires/1705855385466/srcIp/49.206.119.194/urls/185.226.53.53/clientType/36/srcAg/CHROME_ANDROID/mid/7169497253638/video.m3u8?p
+ 
+#EXTINF:123,Anas – Flowers HD
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
+ 
+#EXTINF:123,ANAS - SUN TV
+https://ctrl.laotv.la/live/SunTV/index.m3u8
+ 
+#EXTINF:123,ANAS - Manorama news
+https://segment.yuppcdn.net/240122/manoramanews/playlist.m3u8
+ 
+#EXTINF:123,ANAS - Mazhavil Manorama 
+https://livectv3.phando.com/8071/playlist.m3u8
+ 
+#EXTINF:123,ANAS - Polimer News
+https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
+ 
+#EXTINF:123,ANAS - National Geo HD
+http://148.113.5.31:8106/play/a00p/index.m3u8
+ 
+#EXTINF:123,ANAS - Colors HD
+http://148.113.5.31:8106/play/a00j/index.m3u8
+ 
+#EXTINF:123,ANAS - Star sports 1 HD
+http://148.113.5.31:8106/play/a00t/index.m3u8
+ 
+#EXTINF:123,ANAS - Star sports 2 HD
+http://148.113.5.31:8106/play/a00u/index.m3u8
+ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.co.in/TP/Key.php?id=521
+#EXTINF:-1 tvg-id="ts521" tvg-logo="https://tatalogo.pages.dev/521.png" group-title="Tamil",Sun TV HD
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_760/output/manifest.mpd
+ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.co.in/TP/Key.php?id=78
+#EXTINF:-1 tvg-id="ts78" tvg-logo="https://tatalogo.pages.dev/78.png" group-title="Sports",Star Sports 1 HD
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/manifest.mpd
+ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.co.in/TP/Key.php?id=235
+#EXTINF:-1 tvg-id="ts235" tvg-logo="https://tatalogo.pages.dev/235.png" group-title="Sports",Star Sports 2 HD
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_251/output/manifest.mpd
+ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.co.in/TP/Key.php?id=114
+#EXTINF:-1 tvg-id="ts114" tvg-logo="https://tatalogo.pages.dev/114.png" group-title="Kids",Disney
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_166/output/manifest.mpd
+ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.co.in/TP/Key.php?id=608
+#EXTINF:-1 tvg-id="ts608" tvg-logo="https://tatalogo.pages.dev/608.png" group-title="Tamil",Zee Tamil HD
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_842/output/manifest.mpd
+ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.co.in/TP/Key.php?id=119
+#EXTINF:-1 tvg-id="ts119" tvg-logo="https://tatalogo.pages.dev/119.png" group-title="Kids",Discovery Kids
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_130/output/manifest.mpd
+ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.co.in/TP/Key.php?id=605
+#EXTINF:-1 tvg-id="ts605" tvg-logo="https://tatalogo.pages.dev/605.png" group-title="Knowledge",National Geographic HD
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_652/output/manifest.mpd
+ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.co.in/TP/Key.php?id=24
+#EXTINF:-1 tvg-id="ts24" tvg-logo="https://tatalogo.pages.dev/24.png" group-title="Sports",Star Sports 1 Hindi HD
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifest.mpd
+ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.co.in/TP/Key.php?id=1033
+#EXTINF:-1 tvg-id="ts1033" tvg-logo="https://tatalogo.pages.dev/1033.png" group-title="None",Sports 18 - 1 HD
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1852/output/manifest.mpd
+ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.co.in/TP/Key.php?id=239
+#EXTINF:-1 tvg-id="ts239" tvg-logo="https://tatalogo.pages.dev/239.png" group-title="Kids",Pogo
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_406/output/manifest.mpd
+ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.co.in/TP/Key.php?id=127
+#EXTINF:-1 tvg-id="ts127" tvg-logo="https://tatalogo.pages.dev/127.png" group-title="Kids",Sonic Nickelodeon
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_169/output/manifest.mpd
+ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.co.in/TP/Key.php?id=238
+#EXTINF:-1 tvg-id="ts238" tvg-logo="https://tatalogo.pages.dev/238.png" group-title="Kids",Cartoon Network
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_405/output/manifest.mpd
+ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.co.in/TP/Key.php?id=496
+#EXTINF:-1 tvg-id="ts496" tvg-logo="https://tatalogo.pages.dev/496.png" group-title="Tamil",Star Vijay HD
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_818/output/manifest.mpd
+ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.co.in/TP/Key.php?id=380
+#EXTINF:-1 tvg-id="ts380" tvg-logo="https://tatalogo.pages.dev/380.png" group-title="Tamil",KTV HD
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_600/output/manifest.mpd
+ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.co.in/TP/Key.php?id=509
+#EXTINF:-1 tvg-id="ts509" tvg-logo="https://tatalogo.pages.dev/509.png" group-title="Tamil",Polimer News
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_673/output/manifest.mpd
+ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.co.in/TP/Key.php?id=119
+#EXTINF:-1 tvg-id="ts119" tvg-name="Discovery Kids 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkRvcIKZHrAQWPBYj4gmqb42jnU9yP1m2omg&usqp=CAU" group-title="Denver KIDS PACK",Discovery Kids
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_130/output/manifest.mpd
+ 
+#EXTINF:-1 tvg-id="ts127" tvg-name="Sonic Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8019-j7a7nf68-v1/imageContent-8019-j7a7nf68-m1.jpg" group-title="Denver KIDS PACK",Sonic Hindi
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u
